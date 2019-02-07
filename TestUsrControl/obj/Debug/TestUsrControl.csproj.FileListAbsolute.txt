@@ -1,0 +1,12 @@
+C:\Solutions\TestUsrControl\bin\Debug\TestUsrControl.exe.config
+C:\Solutions\TestUsrControl\bin\Debug\TestUsrControl.exe
+C:\Solutions\TestUsrControl\bin\Debug\TestUsrControl.pdb
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.csprojAssemblyReference.cache
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.Properties.Resources.resources
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.UserCtlPerson.resources
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.csproj.GenerateResource.cache
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.csproj.CoreCompileInputs.cache
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.exe
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.pdb
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.Form1.resources
+C:\Solutions\TestUsrControl\obj\Debug\TestUsrControl.Form2.resources
